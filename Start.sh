@@ -79,4 +79,4 @@ read palavras
 gerado=$masm-$palavras@$shorter
 	echo
 	echo -e $amarelo "LINK: ${mask}${gerado}"
-bash LinkFake.sh
+bash Start.sh
